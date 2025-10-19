@@ -1,4 +1,4 @@
-# 📊 Redes e Comunicação de Dados 1 
+# 🌐 Redes e Comunicação de Dados 1 
 
 Este repositório contém todo o Conteudo Dado Nas Aulas Laboratórios e Fichas de Exercicios da unidade curricular De Redes e Comunicação de Dados 1 do curso de Informática (2.º ano, UMAIA).
 
