@@ -2,7 +2,7 @@
 
 Este repositório contém todo o Conteudo Dado Nas Aulas Laboratórios e Fichas de Exercicios da unidade curricular De Redes e Comunicação de Dados 1 do curso de Informática (2.º ano, UMAIA).
 
-Para esta Cadeira Foram Utilizados e Estudados Conteudos Cisco bem como utilizado nos casos praticos a Plataforma Emuladora Cisco Packet Tracer
+Para esta Cadeira Foram Utilizados e Estudados Conteudos Cisco bem como utilizados nos casos praticos a Plataforma Emuladora Cisco Packet Tracer
 
 ---
 
